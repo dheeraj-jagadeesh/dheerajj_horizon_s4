@@ -1,0 +1,41 @@
+[0.283s] Invoking command in '/home/dheeraj/horizon_nodes/src/ente_nodes': PYTHONPATH=/home/dheeraj/horizon_nodes/build/ente_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ente_nodes build --build-base /home/dheeraj/horizon_nodes/build/ente_nodes/build install --record /home/dheeraj/horizon_nodes/build/ente_nodes/install.log --single-version-externally-managed install_data
+[0.394s] running egg_info
+[0.395s] creating ../../build/ente_nodes/ente_nodes.egg-info
+[0.395s] writing ../../build/ente_nodes/ente_nodes.egg-info/PKG-INFO
+[0.395s] writing dependency_links to ../../build/ente_nodes/ente_nodes.egg-info/dependency_links.txt
+[0.395s] writing entry points to ../../build/ente_nodes/ente_nodes.egg-info/entry_points.txt
+[0.395s] writing requirements to ../../build/ente_nodes/ente_nodes.egg-info/requires.txt
+[0.395s] writing top-level names to ../../build/ente_nodes/ente_nodes.egg-info/top_level.txt
+[0.395s] writing manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+[0.396s] reading manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+[0.396s] writing manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+[0.396s] running build
+[0.397s] running build_py
+[0.397s] creating /home/dheeraj/horizon_nodes/build/ente_nodes/build
+[0.397s] creating /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib
+[0.397s] creating /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+[0.397s] copying ente_nodes/subscriber_node.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+[0.397s] copying ente_nodes/__init__.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+[0.397s] copying ente_nodes/publisher_node.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+[0.397s] running install
+[0.397s] running install_lib
+[0.397s] creating /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+[0.397s] copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/subscriber_node.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+[0.397s] copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/__init__.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+[0.397s] copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/publisher_node.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+[0.397s] byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/subscriber_node.py to subscriber_node.cpython-310.pyc
+[0.398s] byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/__init__.py to __init__.cpython-310.pyc
+[0.398s] byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/publisher_node.py to publisher_node.cpython-310.pyc
+[0.398s] running install_data
+[0.398s] creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index
+[0.398s] creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index
+[0.398s] creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index/packages
+[0.398s] copying resource/ente_nodes -> /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index/packages
+[0.398s] copying package.xml -> /home/dheeraj/horizon_nodes/install/ente_nodes/share/ente_nodes
+[0.398s] running install_egg_info
+[0.400s] Copying ../../build/ente_nodes/ente_nodes.egg-info to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes-0.0.0-py3.10.egg-info
+[0.400s] running install_scripts
+[0.412s] Installing publisher_node script to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/ente_nodes
+[0.412s] Installing subscriber_node script to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/ente_nodes
+[0.412s] writing list of installed files to '/home/dheeraj/horizon_nodes/build/ente_nodes/install.log'
+[0.424s] Invoked command in '/home/dheeraj/horizon_nodes/src/ente_nodes' returned '0': PYTHONPATH=/home/dheeraj/horizon_nodes/build/ente_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ente_nodes build --build-base /home/dheeraj/horizon_nodes/build/ente_nodes/build install --record /home/dheeraj/horizon_nodes/build/ente_nodes/install.log --single-version-externally-managed install_data

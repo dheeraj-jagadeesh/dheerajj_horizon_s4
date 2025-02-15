@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_node = ente_nodes.publisher_node:main
+subscriber_node = ente_nodes.subscriber_node:main
+

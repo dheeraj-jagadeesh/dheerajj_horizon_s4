@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/ente_nodes/ente_nodes.egg-info
+writing ../../build/ente_nodes/ente_nodes.egg-info/PKG-INFO
+writing dependency_links to ../../build/ente_nodes/ente_nodes.egg-info/dependency_links.txt
+writing entry points to ../../build/ente_nodes/ente_nodes.egg-info/entry_points.txt
+writing requirements to ../../build/ente_nodes/ente_nodes.egg-info/requires.txt
+writing top-level names to ../../build/ente_nodes/ente_nodes.egg-info/top_level.txt
+writing manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+reading manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+writing manifest file '../../build/ente_nodes/ente_nodes.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dheeraj/horizon_nodes/build/ente_nodes/build
+creating /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib
+creating /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+copying ente_nodes/subscriber_node.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+copying ente_nodes/__init__.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+copying ente_nodes/publisher_node.py -> /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes
+running install
+running install_lib
+creating /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/subscriber_node.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/__init__.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+copying /home/dheeraj/horizon_nodes/build/ente_nodes/build/lib/ente_nodes/publisher_node.py -> /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes
+byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/subscriber_node.py to subscriber_node.cpython-310.pyc
+byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes/publisher_node.py to publisher_node.cpython-310.pyc
+running install_data
+creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index
+creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index
+creating /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index/packages
+copying resource/ente_nodes -> /home/dheeraj/horizon_nodes/install/ente_nodes/share/ament_index/resource_index/packages
+copying package.xml -> /home/dheeraj/horizon_nodes/install/ente_nodes/share/ente_nodes
+running install_egg_info
+Copying ../../build/ente_nodes/ente_nodes.egg-info to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/python3.10/site-packages/ente_nodes-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publisher_node script to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/ente_nodes
+Installing subscriber_node script to /home/dheeraj/horizon_nodes/install/ente_nodes/lib/ente_nodes
+writing list of installed files to '/home/dheeraj/horizon_nodes/build/ente_nodes/install.log'
