@@ -1,0 +1,4 @@
+Invoking command in '/home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot -- -j16 -l16
+Invoked command in '/home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot -- -j16 -l16
+Invoking command in '/home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot
+Invoked command in '/home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dheeraj/dheerajj_horizon_s4/task4/build/mobile_dd_robot
