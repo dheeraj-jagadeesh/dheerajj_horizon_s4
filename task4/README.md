@@ -25,7 +25,7 @@ git clone https://github.com/dheeraj-jagadeesh/dheerajj_horizon_s4.git
 source /opt/ros/humble/setup.bash
 
 # 2) Navigate to the project directory
-cd dheerajj_horizon_s4/task3
+cd dheerajj_horizon_s4/task4
 
 # 3) Build the workspace 
 colcon build
@@ -39,7 +39,7 @@ ros2 launch mobile_dd_robot gazebo_model.launch.py
 # 6) Open a New Terminal 
 source /opt/ros/humble/setup.bash
 
-cd dheerajj_horizon_s4/task3
+cd dheerajj_horizon_s4/task4
 
 source install/setup.bash
 
