@@ -9,7 +9,7 @@ Ensure you have the necessary dependencies installed before running the projects
 
 ### Prerequisites
 - ROS 2 Humble  
-- Python 3.10.12
+- Python 3.10.12 (Latest Version is Preferred)
 - Colcon build system  
 
 ### Setup
@@ -17,11 +17,24 @@ Ensure you have the necessary dependencies installed before running the projects
 # Clone the repository
 git clone https://github.com/dheeraj-jagadeesh/dheerajj_horizon_s4.git
 
-# Navigate to the project directory
-cd dheerajj_horizon_s4-main
+# 1) IN A NEW TERMINAL
+source /opt/ros/humble/setup.bash
 
-# Build the workspace 
+# 2) Navigate to the project directory
+cd dheerajj_horizon_s4/task3
+
+# 3) Build the workspace 
 colcon build
 
-# Source the workspace
+# 4) Source the workspace
 source install/setup.bash
+
+# 5) To see the Publisher node
+ros2 run ente_nodes publisher_node
+
+# 6) Open a New Terminal 
+Repeat steps 1 to 4
+
+# 7) To see the Subscribe node
+ros2 run ente_nodes subscriber_node
+
