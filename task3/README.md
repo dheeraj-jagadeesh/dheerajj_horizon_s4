@@ -41,7 +41,10 @@ ros2 run ente_nodes subscriber_node
 ```
 # Screenshots
 
-Publisher
+## Publisher
+
 ![image alt](https://github.com/dheeraj-jagadeesh/dheerajj_horizon_s4/blob/28d121ce4b4495dafe793902b2dd821b0930ce59/task3/images/publisher.png)
-Subscriber
+
+## Subscriber
+
 ![image alt](https://github.com/dheeraj-jagadeesh/dheerajj_horizon_s4/blob/28d121ce4b4495dafe793902b2dd821b0930ce59/task3/images/subscriber.png)
