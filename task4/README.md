@@ -2,6 +2,9 @@
 
 This project simulates a **differential drive robot** in **Gazebo Classic** using **ROS 2 Humble**. The robot can be controlled via the **teleop_twist_keyboard** package.  
 
+## **Demonstration**  
+The working example can be seen [here.](https://drive.google.com/file/d/1ybPeJomjxtJ6Km8MxcnHEsV1CxKkkryV/view)
+
 ## **Installation & Setup**  
 
 Ensure you have the necessary dependencies installed before running the project.  
@@ -91,5 +94,3 @@ dheerajj_horizon_s4/
 
 ---
 
-## **Demonstration**  
-The working example can be seen [here.](https://drive.google.com/file/d/1ybPeJomjxtJ6Km8MxcnHEsV1CxKkkryV/view)
