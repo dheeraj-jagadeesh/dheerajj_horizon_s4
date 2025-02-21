@@ -46,18 +46,43 @@ To run the program, follow these steps:
 1. **Open a terminal or command prompt**.
 2. **Navigate to the directory** where the program file is located.
 3. **Run the program** using the following command:
+     ```
+     python3 nearest.py
+     ```
 
-4. **Input the number of points** when prompted.
-5. **Enter the coordinates** for each point in the format `x y`.
+4. **How to Run the Program**
 
-The program will then plot the points and draw lines to their nearest neighbors.
+- Run the script in a terminal or command prompt.
+
+- Enter the number of points when prompted.
+
+- Input the coordinates (x, y) for each point.
+
+- The program will display a scatter plot with lines connecting each point to its nearest unused neighbor.
 
 ## Example
 
-Enter the number of points: 3 Enter coordinates for point 1 (x y): 1 1 Enter coordinates for point 2 (x y): 2 3 Enter coordinates for point 3 (x y): 4 2
+**Input:**
 
+- Enter the number of points? 5
+- Enter point x1 = 2
+- Enter point y1 = 3
+- Enter point x2 = 5
+- Enter point y2 = 7
+- Enter point x3 = 8
+- Enter point y3 = 2
+- Enter point x4 = 1
+- Enter point y4 = 6
+- Enter point x5 = 6
+- Enter point y5 = 5
 
+**Output:**
 
-This will generate a plot with the points (1,1), (2,3), and (4,2) and draw lines connecting each point to its nearest neighbor.
+A plotted graph with red dots representing the input points and blue lines connecting each point to its nearest neighbor.
 
+**Notes**
+
+Duplicate points are allowed, but duplicate edges are avoided.
+
+Ensure matplotlib is installed before running the script.
 
