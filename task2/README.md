@@ -1,4 +1,4 @@
-# TASK 3
+# TASK 2
 
 Created a Tinkercad project using an Arduino to control a servo motor via serial input.Used six servo motors, each representing a joint of a robotic arm and controlled them using an array of angles received via serial input.
 Implemented a pseudo-simultaneous movement for smoother operation.
