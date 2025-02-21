@@ -1,6 +1,6 @@
 # Nearest Neighbour Plotter
 
-This Python program allows users to input a set of points and visualize the nearest neighbor connections between them. It uses the `matplotlib` library to plot the points and draw lines to their nearest neighbors.
+This Python program allows users to input a set of points and visualize the nearest neighbour connections between them. It uses the `matplotlib` library to plot the points and draw lines to their nearest neighbours.
 
 ## Dependencies
 
@@ -58,7 +58,7 @@ To run the program, follow these steps:
 
 - Input the coordinates (x, y) for each point.
 
-- The program will display a scatter plot with lines connecting each point to its nearest unused neighbor.
+- The program will display a scatter plot with lines connecting each point to its nearest unused neighbour.
 
 ## Example
 
@@ -78,7 +78,7 @@ To run the program, follow these steps:
 
 **Output:**
 
-A plotted graph with red dots representing the input points and blue lines connecting each point to its nearest neighbor.
+A plotted graph with red dots representing the input points and blue lines connecting each point to its nearest neighbour.
 
 **Notes**
 
