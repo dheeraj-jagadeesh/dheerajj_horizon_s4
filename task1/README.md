@@ -1,4 +1,4 @@
-# Nearest Neighbor Plotter
+# Nearest Neighbour Plotter
 
 This Python program allows users to input a set of points and visualize the nearest neighbor connections between them. It uses the `matplotlib` library to plot the points and draw lines to their nearest neighbors.
 
